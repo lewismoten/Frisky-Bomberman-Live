@@ -1,7 +1,11 @@
-# Frisky-Bomberman-Live
+# Frisky Bomberman Live
 
 ## Plot
 A frisky bomber is trying to plant a bomb on you. Escape the angry person or your car may blow up!
+
+![Screen Shot of Frisky Bomberman Live in action](demo.png)
+
+[Play Frisky Bomberman Live](http://lewismoten.github.io/Frisky-Bomberman-Live/)
 
 ## Controls
 * Press the `space` key to start the game
