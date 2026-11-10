@@ -1,3 +1,5 @@
+![Frisky-Bomberman-Live: Bomberman-style canvas game, a person planting a bomb by a car](docs/images/social-preview.png)
+
 # Frisky Bomberman Live
 
 ## Plot
